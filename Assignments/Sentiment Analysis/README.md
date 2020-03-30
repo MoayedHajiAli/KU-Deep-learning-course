@@ -11,7 +11,8 @@
 The data were downloaded from Stanford AI lab at this [https://ai.stanford.edu/~amaas/data/sentiment](link)
 
 ## Benckmark results for different N-grams models
-` ` 
+
+```
 modeling data in 1 gram model
 Naive Bayes model with 1 gram model prodcued accuracy of **0.8342**
 modeling data in 2 gram model
@@ -25,5 +26,5 @@ Naive Bayes model with 5 gram model prodcued accuracy of **0.8458**
 modeling data in 6 gram model
 Naive Bayes model with 6 gram model prodcued accuracy of **0.8458**
 
-` ` 
+```
 
