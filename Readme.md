@@ -10,7 +10,7 @@
 - **Mnsit One layer:** a comparison of basic models (One layer perceptron, Adaline, Softmax) in solving Mnsit hand-written digit recognition. Each model was tested using its optimization function and by deriving its optimizing function from its loss function
 
 ### Assignments:
--  **IMDB sentiment analysis:** a review sentiments classification using Naive Bayes model with N-gram extension -- maximum accuracy achieved:  84588%
+-  **IMDB sentiment analysis:** a review sentiments classification using Naive Bayes model with N-gram extension -- maximum accuracy achieved:  84.588%
 
 ### Labs:
 -  **Linear regression:** train a linear regression model based on Boston Housing Data
